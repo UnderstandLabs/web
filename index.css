@@ -6,17 +6,13 @@ body, html, .container {
     height: 95%;
 }
 
-.row {
-    padding-top: 60px;
-}
-
 iframe {
     width: 95%;
     height: 71.25%;
 }
 
-h6 {
-    margin-bottom: 36px;
+h1, h2, h3, h4, h5, h6 {
+    margin-top  : 36px;
 }
 
 #mc_embed_signup form {
