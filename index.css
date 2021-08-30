@@ -1,14 +1,9 @@
 body, html, .container {
-    height: 95%;
+    height: 100%;
 }
 
 .full-height {
-    height: 95%;
-}
-
-iframe {
-    width: 95%;
-    height: 71.25%;
+    height: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
